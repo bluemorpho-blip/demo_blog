@@ -1,2 +1,2 @@
-# demo_blog_rails
+# demo_blog
 rails practice coding
